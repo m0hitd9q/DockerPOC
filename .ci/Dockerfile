@@ -1,3 +1,3 @@
-FROM mohitbuildkitepoc/firstimage
+FROM debian:10
 
 RUN python3
